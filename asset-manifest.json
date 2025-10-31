@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/textile-bom-calculator/static/css/main.2d4af4f7.css",
-    "main.js": "/textile-bom-calculator/static/js/main.ae32c49e.js",
+    "main.js": "/textile-bom-calculator/static/js/main.2cbbc476.js",
     "static/js/453.eb570f4f.chunk.js": "/textile-bom-calculator/static/js/453.eb570f4f.chunk.js",
     "index.html": "/textile-bom-calculator/index.html",
     "main.2d4af4f7.css.map": "/textile-bom-calculator/static/css/main.2d4af4f7.css.map",
-    "main.ae32c49e.js.map": "/textile-bom-calculator/static/js/main.ae32c49e.js.map",
+    "main.2cbbc476.js.map": "/textile-bom-calculator/static/js/main.2cbbc476.js.map",
     "453.eb570f4f.chunk.js.map": "/textile-bom-calculator/static/js/453.eb570f4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d4af4f7.css",
-    "static/js/main.ae32c49e.js"
+    "static/js/main.2cbbc476.js"
   ]
 }
