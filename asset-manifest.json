@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textile-bom-calculator/static/css/main.2d4af4f7.css",
+    "main.js": "/textile-bom-calculator/static/js/main.97737e2e.js",
+    "static/js/453.eb570f4f.chunk.js": "/textile-bom-calculator/static/js/453.eb570f4f.chunk.js",
+    "index.html": "/textile-bom-calculator/index.html",
+    "main.2d4af4f7.css.map": "/textile-bom-calculator/static/css/main.2d4af4f7.css.map",
+    "main.97737e2e.js.map": "/textile-bom-calculator/static/js/main.97737e2e.js.map",
+    "453.eb570f4f.chunk.js.map": "/textile-bom-calculator/static/js/453.eb570f4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d4af4f7.css",
+    "static/js/main.97737e2e.js"
+  ]
+}
