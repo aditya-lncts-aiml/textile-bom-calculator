@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/textile-bom-calculator/static/css/main.2d4af4f7.css",
-    "main.js": "/textile-bom-calculator/static/js/main.7d779ffd.js",
+    "main.css": "/textile-bom-calculator/static/css/main.2942c713.css",
+    "main.js": "/textile-bom-calculator/static/js/main.6b9634cd.js",
     "static/js/453.eb570f4f.chunk.js": "/textile-bom-calculator/static/js/453.eb570f4f.chunk.js",
     "index.html": "/textile-bom-calculator/index.html",
-    "main.2d4af4f7.css.map": "/textile-bom-calculator/static/css/main.2d4af4f7.css.map",
-    "main.7d779ffd.js.map": "/textile-bom-calculator/static/js/main.7d779ffd.js.map",
+    "main.2942c713.css.map": "/textile-bom-calculator/static/css/main.2942c713.css.map",
+    "main.6b9634cd.js.map": "/textile-bom-calculator/static/js/main.6b9634cd.js.map",
     "453.eb570f4f.chunk.js.map": "/textile-bom-calculator/static/js/453.eb570f4f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d4af4f7.css",
-    "static/js/main.7d779ffd.js"
+    "static/css/main.2942c713.css",
+    "static/js/main.6b9634cd.js"
   ]
 }
